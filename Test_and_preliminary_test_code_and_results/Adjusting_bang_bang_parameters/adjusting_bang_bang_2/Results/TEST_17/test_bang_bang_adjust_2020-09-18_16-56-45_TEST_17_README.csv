@@ -1,0 +1,8 @@
+2020-09-18_16-56-45,  
+"IMPORTANT. Values of the data file are valide from their ""time log"" of the same line until the ""time log"" of the next line"
+Voltage power supply: 25 V
+Note from end of experiment: 
+Values on the bottom where logged at the end of the experiment . 
+bang bang name ,resistor (ohm) ,extrem low threshold final (°C) ,low threshold final (°C),high threshold final (°C),extrem high threshold final (°C),PWM extrem low final,PWM low final,PWM high final,PWM extrem hight final
+bb_disc,70,13,14,14.5,15,0,10,90,100
+bb_fluid,103,14,15,16,16.5,0,5,70,100
